@@ -1,0 +1,55 @@
+Eu estou gostando muito aprender sobre novas tecnologias, especialmente sobre inteligência artificial.
+
+segue abaxo os tópicos e subtópicos dos assuntos que aprendi durante a realização do projeto.
+
+*Processamento de linguagem natural.
+- Conceitos de processamento de linguagem natural.
+- Capacidades de processamento de liguagem natural no Azure.
+- Reconhecendo quando o processamento de linguagem natural e a IA conversacional podem ser usados.
+- Identifique os serviços de IA do Azure que incluem processamento de linguagem natural.
+- Usando a análise de texto para mim mesmo.
+
+* Processamento de linguagem natural e IA conversacional no Azure.
+- liguagem
+- NER (Reconhecimento de Entidade Nomeada)
+- Detecção de PII e PHI
+- Detecção de idioma
+- Análise de Sentimentos
+- Respostas a perguntas
+- Fala
+---- Texto para fala
+---- Conversão da fala para texto
+---- Tradução de fala
+- Tradução
+---- Tradução do texto
+---- Tradução de documentos
+---- Tradução personalizada
+
+* Capacidades de processamento de liguagem natural no Azure.
+- Analise do texto
+---- Idioma Predominante:
+---- Sentimento:
+---- Frases-chave:
+---- Entidades:
+
+* Resposta a perguntas
+- Definir uma base de conhecimento de pares de perguntas e respostas:
+---- Ao inserir perguntas e respostas
+---- De um documento de perguntas frequentes existente
+---- Usando bate-papo integrado
+
+* Serviço de bot do Azure
+- Plataforma baseada em nuvem para desenvolvimento e gerenciamento de bots
+- integração com AI Language e outros serviços
+- Conectividade através de vários canais
+
+* Compreensão da linguagem coloquial
+- Declaração
+- Entidade
+- Intencional
+
+* Reconhecimento e síntese de fala
+- Uso dos recursos de fala para texto do serviço Fala para transcrever fala audível em texto.
+- Uso dos recursos de conversão de texto em fala do Serviço de Fala para gerar fala audível a partir de texto.
+
+
